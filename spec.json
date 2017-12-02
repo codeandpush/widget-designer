@@ -1,0 +1,7 @@
+{
+  "appType": "scaffold",
+  "appName": "WidgetDesigner",
+  "docker": true,
+  "metrics": true,
+  "services": {}
+}
